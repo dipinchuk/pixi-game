@@ -6,7 +6,7 @@ In response to the job vacancy, I eagerly express my commitment to mastering the
 
 ## Demo
 
-[DEMO LINK](https://pixi-test-task.vercel.app/)
+[DEMO LINK](https://pixi-game-blond.vercel.app/)
 
 ## Installation
 
@@ -52,15 +52,15 @@ In progress:
 - [ ] Add the ability to adjust shape size.
 
 ## Screenshots
-![interface scheme](https://github.com/dipinchuk/pixi-test-task/blob/main/src/assets/2023-10-19%2015%2019%2016.png)
+![interface scheme](https://github.com/dipinchuk/pixi-game/blob/main/src/assets/2023-10-19%2015%2019%2016.png)
 
 ---
 
-![interface scheme](https://github.com/dipinchuk/pixi-test-task/blob/main/src/assets/2023-10-19%2015%2019%2023.png)
+![interface scheme](https://github.com/dipinchuk/pixi-game/blob/main/src/assets/2023-10-19%2015%2019%2023.png)
 
 ---
 
-![interface scheme](https://github.com/dipinchuk/pixi-test-task/blob/main/src/assets/2023-10-19%2015%2019%2031.png)
+![interface scheme](https://github.com/dipinchuk/pixi-game/blob/main/src/assets/2023-10-19%2015%2019%2031.png)
 
 ---
-![interface scheme](https://github.com/dipinchuk/pixi-test-task/blob/main/src/assets/2023-10-19%2015%2019%2056.png)
+![interface scheme](https://github.com/dipinchuk/pixi-game/blob/main/src/assets/2023-10-19%2015%2019%2056.png)
