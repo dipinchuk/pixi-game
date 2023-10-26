@@ -1,0 +1,1 @@
+import Shape from"./shape.js";export default class Triangle extends Shape{constructor(s,r,a,t){super("triangle",s,r,a,t),this.graphics.drawPolygon([0,0,50,0,25,50]),this.graphics.endFill(),this.graphics.x=this.x,this.graphics.y=this.y}calculateArea(){return 1250}}

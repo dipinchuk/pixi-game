@@ -1,0 +1,1 @@
+import Shape from"./shape.js";export default class Ellipse extends Shape{constructor(s,e,i,t){super("ellipse",s,e,i,t),this.graphics.drawEllipse(0,0,40,20),this.graphics.endFill(),this.graphics.x=this.x,this.graphics.y=this.y}calculateArea(){return 20*Math.PI*40}}

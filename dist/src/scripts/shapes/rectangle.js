@@ -1,0 +1,1 @@
+import Shape from"./shape.js";export default class Rectangle extends Shape{constructor(e,s,t,a){super("rectangle",e,s,t,a),this.graphics.drawRect(0,0,50,50),this.graphics.endFill(),this.graphics.x=this.x,this.graphics.y=this.y}calculateArea(){return 2500}}
