@@ -65,19 +65,19 @@ class Game {
   createRandomShapeInstance(type, color, borderColor, x, y) {
     switch (type) {
       case "triangle":
-        return new shapes.triangle(color, borderColor, x, y);
+        return new shapes.Triangle(color, borderColor, x, y);
       case "rectangle":
-        return new shapes.rectangle(color, borderColor, x, y);
+        return new shapes.Rectangle(color, borderColor, x, y);
       case "pentagon":
-        return new shapes.pentagon(color, borderColor, x, y);
+        return new shapes.Pentagon(color, borderColor, x, y);
       case "hexagon":
-        return new shapes.hexagon(color, borderColor, x, y);
+        return new shapes.Hexagon(color, borderColor, x, y);
       case "circle":
-        return new shapes.circle(color, borderColor, x, y);
+        return new shapes.Circle(color, borderColor, x, y);
       case "ellipse":
-        return new shapes.ellipse(color, borderColor, x, y);
+        return new shapes.Ellipse(color, borderColor, x, y);
       case "star":
-        return new shapes.star(color, borderColor, x, y);
+        return new shapes.Star(color, borderColor, x, y);
     }
   }
 

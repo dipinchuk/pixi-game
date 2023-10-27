@@ -1,9 +1,9 @@
-import triangle from "./triangle";
-import circle from "./circle";
-import ellipse from "./ellipse";
-import hexagon from "./hexagon";
-import pentagon from "./pentagon";
-import rectangle from "./rectangle";
-import star from "./star";
+import Triangle from "./triangle";
+import Circle from "./circle";
+import Ellipse from "./ellipse";
+import Hexagon from "./hexagon";
+import Pentagon from "./pentagon";
+import Rectangle from "./rectangle";
+import Star from "./star";
 
-export { ellipse, circle, triangle, hexagon, rectangle, pentagon, star };
+export { Ellipse, Circle, Triangle, Hexagon, Rectangle, Pentagon, Star };
